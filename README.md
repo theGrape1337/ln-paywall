@@ -1,5 +1,13 @@
 # Blog paywall start
 
+This is the starting code for the youtube tutorial Bitcoin Paywall with LN in React (https://www.youtube.com/watch?v=9OAHIbGTA-Q)
+
+## Install npm packages
+
+When you have cloned the project you first need to run install npm in the root folder.
+
+### `npm install`
+
 ## Start the blog
 
 In the project directory first run:

@@ -5,7 +5,7 @@ import { useEffect } from "react";
 function Post() {
   let navigate = useNavigate();
   const { state } = useLocation();
-  const paid = localStorage.getItem("paid") || false;
+  const paid = false;
 
   useEffect(() => {
     if (state.post.paywall === true && paid === false) {
