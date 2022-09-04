@@ -1,4 +1,4 @@
-# Blog paywall start
+# Blog paywall 
 
 ## Start the blog
 
